@@ -9,7 +9,7 @@
 
 - 🔭 Working on GIS's `Data Visualization`
 - 👨‍💻 Still learning ![WebGL](https://img.shields.io/badge/-WebGL-%23990000?style=flat-square&logo=webgl&logoColor=ffffff)
-- 🏃 Love running! The goal now is to complete a ~~half-marathon~~ `marathon` in this year. View my [Running page](https://run.gooin.win/)
+- 🏃 Love running! The goal now is to complete a ~~half-marathon~~ `marathon` this year. View my [Running page](https://run.gooin.win/)
 
 #### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
