@@ -8,8 +8,8 @@
 
 
 - 🔭 Working on GIS's `Data Visualization`
-- 👨‍💻 Still learning ![WebGL](https://img.shields.io/badge/-WebGL-%23990000?style=flat-square&logo=webgl&logoColor=ffffff)
-- 🏃 Love running! The goal now is to complete a ~~half-marathon~~ `marathon` this year. View my [Running page](https://run.gooin.win/)
+- 👨‍💻 Still learning `WebGL`
+- 🏃 Love running! The goal now is to complete a ~~half-marathon~~ marathon this year. View my [Running page](https://run.gooin.win/)
 
 #### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -17,6 +17,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![WebGL](https://img.shields.io/badge/-WebGL-%23990000?style=flat-square&logo=webgl&logoColor=ffffff)
+
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
