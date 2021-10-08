@@ -29,6 +29,6 @@
 ####  📊 𝗠𝘆 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Other        3 mins          ███████████████████████▓░   94.89 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
