@@ -30,10 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript                 13 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.55 %
-TypeScript                 6 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
-HTML                       2 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-Other                      2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+JavaScript                 10 hrs 8 mins   ███████████▓░░░░░░░░░░░░░   46.74 %
+TypeScript                 6 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   28.17 %
+HTML                       2 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+PlantUML file              1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Markdown                   55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Other                      21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
