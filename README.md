@@ -30,12 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                 19 hrs 1 min    ██████████████▒░░░░░░░░░░   56.79 %
-LESS                       6 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
-JavaScript                 4 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
-HTTP Request               1 hr 59 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-JSON                       1 hr 23 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-yarn.lock                  3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript            22 hrs 24 mins  ███████████████▒░░░░░░░░░   61.41 %
+LESS                  6 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.09 %
+JavaScript            3 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
+HTTP Request          2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+JSON                  1 hr 24 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+yarn.lock             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
