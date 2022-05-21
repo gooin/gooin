@@ -30,11 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript            25 hrs 38 mins  ███████████████████▒░░░░░   77.32 %
-JSON                  3 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-HTTP Request          2 hrs 21 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-JavaScript            42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Other                 22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+TypeScript            22 hrs 18 mins  ██████████████████░░░░░░░   71.56 %
+HTTP Request          3 hrs 57 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
+JSON                  3 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
+JavaScript            49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+yarn.lock             16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+GitIgnore file        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
