@@ -30,12 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript            24 mins         █████████▒░░░░░░░░░░░░░░░   37.34 %
-Python                12 mins         █████░░░░░░░░░░░░░░░░░░░░   19.58 %
-CSV                   11 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
-textmate              9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
-HTTP Request          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-JavaScript            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
