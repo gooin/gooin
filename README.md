@@ -30,11 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 13 mins   ██████████████████████▓░░   90.30 %
-SCSS         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
