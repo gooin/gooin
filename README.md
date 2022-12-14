@@ -30,12 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript    14 hrs 55 mins  █████████████████▒░░░░░░░   69.43 %
-TypeScript    1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
-JSON          1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
-Racket        1 hr 30 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Markdown      1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Common Lisp   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JavaScript    9 hrs 6 mins    ████████████▓░░░░░░░░░░░░   51.06 %
+TypeScript    3 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
+Racket        2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+JSON          1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+Markdown      1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Common Lisp   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
