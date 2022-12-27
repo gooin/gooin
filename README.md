@@ -30,10 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     14 mins         ███████████▓░░░░░░░░░░░░░   47.14 %
-TypeScript   13 mins         ███████████▒░░░░░░░░░░░░░   45.65 %
-Racket       2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Markdown     14 mins         ████████████████████▒░░░░   80.79 %
+Racket       2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+TypeScript   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
 ```
 
 <!--END_SECTION:waka-->
