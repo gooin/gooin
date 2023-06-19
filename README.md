@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/-Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/goooinn)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=vyzt.dev&down_message=vyzt.dev&url=https%3A%2F%2Fvyzt.dev)](https://vyzt.dev)
 
-## Garmin DailySync
+##### Garmin DailySync
  [Garmin DailySync](https://dailysync.vyzt.dev/), join our Strava Club: [FourTimes](https://www.strava.com/clubs/dailysync) 
  
 
@@ -12,7 +12,7 @@
 
 - 🔭 Working on GIS's `Data Visualization`
 - 👨‍💻 Still learning `WebGL`
-- 🏃 Love running! The goal now is to complete a 3:30 marathon this year. View my [Strava]([https://run.gooin.win/](https://www.strava.com/athletes/84396978)
+- 🏃 Love running! The goal now is to complete a 3:30 marathon this year. View my [Strava](https://www.strava.com/athletes/84396978)
 
 #### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
