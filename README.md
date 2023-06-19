@@ -1,8 +1,13 @@
 ### Hi there 👋, I'm Zhitao Yan.
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gooin.gooin)
 [![](https://img.shields.io/badge/-Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/goooinn)
-[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=blog.gooin.win&down_message=blog.gooin.win&url=https%3A%2F%2Fblog.gooin.win)](https://blog.gooin.win)
-
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=vyzt.dev&down_message=vyzt.dev&url=https%3A%2F%2Fvyzt.dev)](https://vyzt.dev)
+<a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/84396978' target="_clean">
+  关注我
+  <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
+</a>
+ [Garmin DailySync](https://dailysync.vyzt.dev/), join our Strava Club: [FourTimes](https://www.strava.com/clubs/dailysync) 
+ 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gooin&show_icons=true&icon_color=805AD5&text_color=000&bg_color=ffffff&hide_title=true" />
 
