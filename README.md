@@ -2,10 +2,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gooin.gooin)
 [![](https://img.shields.io/badge/-Telegram-%2326A5E4?style=flat-square&logo=telegram&logoColor=ffffff)](https://t.me/goooinn)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=vyzt.dev&down_message=vyzt.dev&url=https%3A%2F%2Fvyzt.dev)](https://vyzt.dev)
-<a style="display:inline-block;background-color:#FC5200;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('https://badges.strava.com/logo-strava-echelon.png')" href='https://strava.com/athletes/84396978' target="_clean">
-  关注我
-  <img src='https://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
-</a>
+
+## Garmin DailySync
  [Garmin DailySync](https://dailysync.vyzt.dev/), join our Strava Club: [FourTimes](https://www.strava.com/clubs/dailysync) 
  
 
@@ -14,7 +12,7 @@
 
 - 🔭 Working on GIS's `Data Visualization`
 - 👨‍💻 Still learning `WebGL`
-- 🏃 Love running! The goal now is to complete a ~~half-marathon~~ marathon this year. View my [Running page](https://run.gooin.win/)
+- 🏃 Love running! The goal now is to complete a 3:30 marathon this year. View my [Strava]([https://run.gooin.win/](https://www.strava.com/athletes/84396978)
 
 #### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
