@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript            13 hrs 5 mins   ███████████████░░░░░░░░░░   60.60 %
-JavaScript            2 hrs 54 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-HTTP Request          1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-Python                1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-GDScript3             44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+TypeScript            16 hrs 55 mins  ████████████████░░░░░░░░░   64.58 %
+JavaScript            3 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+Python                1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+HTTP Request          1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+GDScript3             44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
 ```
 
 <!--END_SECTION:waka-->
