@@ -3,7 +3,7 @@
 
 - 🖥️ Frontend Developer
 - 🔭 Working on GIS's `Data Visualization`
-- 🏃 Love running! The goal now is to complete a 3:30 marathon this year. View my [Strava](https://www.strava.com/athletes/84396978)
+- 🏃 Love running! The goal now is to complete a ~~3:30~~ 3:20 marathon. View my [Strava](https://www.strava.com/athletes/84396978)
 
 ### Garmin DailySync
  [Garmin DailySync](https://dailysync.vyzt.dev/), join our Strava Club: [FourTimes](https://www.strava.com/clubs/dailysync) 
