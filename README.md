@@ -32,11 +32,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                             12 hrs 25 mins  ████████▓░░░░░░░░░░░░░░░░   34.59 %
-Java                                   9 hrs 57 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 %
-XML                                    5 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-Bash                                   2 hrs 18 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
-Activiti BPMN 2.0 Engine XML process   1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+TypeScript                             12 hrs 27 mins  █████████░░░░░░░░░░░░░░░░   36.33 %
+Java                                   11 hrs 28 mins  ████████▒░░░░░░░░░░░░░░░░   33.47 %
+XML                                    3 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+Bash                                   2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
+Activiti BPMN 2.0 Engine XML process   1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
 ```
 
 <!--END_SECTION:waka-->
